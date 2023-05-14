@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CONFIGtwo
+    name: CONFIGNEWSERVER
 eureka:
   instance:
     prefer-ip-address: true
